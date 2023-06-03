@@ -12,3 +12,4 @@ To achieve the study objective, the survival courses for the two treatment group
 
 Specifically, the log-rank test, a commonly used statistical test in survival analysis, will be employed to determine if there is a significant difference in survival times between patients treated with the novel radioimmunotherapy and those in the control group. The log-rank test allows for the comparison of survival distributions and helps evaluate the hypothesis that the two groups have similar survival experiences.
 
+### Conclusion
