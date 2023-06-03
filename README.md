@@ -14,3 +14,4 @@ Specifically, the log-rank test, a commonly used statistical test in survival an
 
 ### Conclusion
 <img src="https://github.com/fBoatengs/Survival_Analysis/blob/main/Surviva_plot.jpg?raw=true" width="500" height="300">
+From my analysis, we can see that there is a difference in the survival curves for patients treated with the novel radioimmunotherapy and those in the control group. Also, based on the log-rank test with a p-value being less than 0.05, we reject the null hypothesis and conclude that there is a significant difference in survival times between patients treated with the novel radioimmunotherapy and those in the control group. Therefore we can conclude that patients treated with the novel radioimmunotherapy have, on average, longer survival times than patients in the control group. 
